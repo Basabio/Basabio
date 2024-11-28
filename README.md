@@ -2,10 +2,10 @@
 - 👀 I’m interested in programming videeogames
 - 🌱 I’m currently learning many programming languages
 - 💞️ I collaborate with many users and the owner of informationpl.wordpress.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Basabio (the username)
+- ⚡ Fun fact: im the owner of Information place!
+the link:
+>informationpl.wordpress.com
 
-<!---
-Basabio/Basabio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+if im right this has to be the logo
+![image](https://github.com/user-attachments/assets/7bbbcf27-13dd-4f2e-8844-826650b036a1)
